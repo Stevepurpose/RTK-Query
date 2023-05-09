@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+
+form{
+  display: grid;
+  width: 50%;
+  margin:auto;
+}
+
+.form-control{
+  border: 1px solid red;
+  
+  
+}
+
+#but-Form{
+  width: 20%;
+  color: yellow;
+  background-color: red;
+}
+
+.but-edit{
+  width: 20%;
+  margin-right: 2px;
+  color: yellow;
+  background-color: red;
+  
+}
+
+input{
+  margin-bottom: 20px;
+  color: red;
+  height: 30px;
+}
+
+textarea{
+  margin-bottom: 20px;
+  color: red;
+  height: 60px;
+}
+
+.butedit-container{
+  display: flex;
+  
+}
+
+.edit-route{
+  margin-right: 5px;
+}
+
+.fix-update{
+  color: yellow;
+  background-color: red;
+  height: 40px;
+}
